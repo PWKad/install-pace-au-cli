@@ -1,0 +1,5 @@
+{
+  "globalDependencies": {
+    "hubspot-pace": "registry:dt/hubspot-pace#0.7.5+20160819211420"
+  }
+}
